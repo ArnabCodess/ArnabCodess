@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArnabCodess
-- 👀 I’m interested in Web Development, Frontend, Backend
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on Web Development Projects mainly Frontend
-- 📫 Drop a DM at arnab.44 on Instagram
+- 👀 I’m interested in Cybersecurity, Ethical Hacking, AI, LLM, Security, Information Security 
+- 🌱 I’m currently learning MCA
+- 💞️ I’m looking to collaborate on Cybersecurity, Red Teaming , Information Security Projects 
+- 📫 Drop a DM at creed.exe on Instagram
 - 😄 Pronouns: He/Him
 - ⚡ Hobby: Guitar, Cooking, Coding.
 
